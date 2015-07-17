@@ -18,10 +18,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     
-    NSLog(@"in app delegate");
-    NSLog(@"testing github commit .....");
-    
-    NSLog(@"testing github commit after access.....");
+    NSLog(@"removed all logs");
     return YES;
 }
 
