@@ -8,6 +8,8 @@
 
 #import "AppDelegate.h"
 
+
+
 @interface AppDelegate ()
 
 @end
@@ -21,6 +23,8 @@
     NSLog(@"removed all logs.................................");
     
     NSLog(@"added new log for testing");
+    
+    NSLog(@"check for changes in copy of the project");
     return YES;
 }
 
