@@ -24,7 +24,7 @@
     
     NSLog(@"added new log for testing");
     
-    NSLog(@"check for changes in copy of the project");
+    NSLog(@"check for changes in copy of the project on desktop only");
     return YES;
 }
 
