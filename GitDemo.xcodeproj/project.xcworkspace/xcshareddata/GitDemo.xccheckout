@@ -5,7 +5,11 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< Updated upstream
 	<string>09C78456-8CC7-4A50-B6DD-4619171148E9</string>
+=======
+	<string>764B07D4-1A42-4F4B-B835-8F1623A48470</string>
+>>>>>>> Stashed changes
 	<key>IDESourceControlProjectName</key>
 	<string>GitDemo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
