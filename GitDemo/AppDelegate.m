@@ -18,7 +18,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     
-    NSLog(@"removed all logs");
+    NSLog(@"removed all logs.................................");
     return YES;
 }
 
