@@ -20,6 +20,8 @@
     
     NSLog(@"in app delegate");
     NSLog(@"testing github commit .....");
+    
+    NSLog(@"testing github commit after access.....");
     return YES;
 }
 
