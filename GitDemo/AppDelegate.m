@@ -19,6 +19,8 @@
 {
     
     NSLog(@"removed all logs.................................");
+    
+    NSLog(@"added new log for testing");
     return YES;
 }
 
