@@ -19,6 +19,9 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"git demo");
+    
+    
+    NSLog(@"check file update for project copy");
 }
 
 - (void)didReceiveMemoryWarning {
